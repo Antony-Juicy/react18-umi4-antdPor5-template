@@ -1,3 +1,12 @@
+<!--
+ * @Author: Antony-Juicy wangshengping1064@dingtalk.com
+ * @Date: 2023-03-21 17:47:53
+ * @LastEditors: Antony-Juicy wangshengping1064@dingtalk.com
+ * @LastEditTime: 2024-07-20 22:13:42
+ * @FilePath: /react18-umi4-antdPor5-template/README.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
+
 # Ant Design Pro
 
 本项目使用 [Ant Design Pro](https://pro.ant.design)进行构建.
@@ -23,7 +32,7 @@ Ant Design Pro 提供了一些有用的脚本（`package.json`）来帮助您快
 ### 启动项目
 
 ```bash
-yarn start
+yarn start  ## 登录需要跑这个命令
 ```
 
 ### 编译项目
